@@ -2,7 +2,7 @@
 Java-based DSA solutions organized by topic, focusing on core problem-solving patterns and optimized approaches.
 This repository contains my solutions to Data Structures & Algorithms problems, implemented in Java with a focus on core problem-solving patterns.
 
-# Topics Covered
+# Topics to be Covered
 - Arrays
 - Strings
 - LinkedList
